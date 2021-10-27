@@ -9,7 +9,7 @@ https://learn.unity.com/project/2d-roguelike-tutorial
   
 https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-roguelike-29825  
     
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD  
   
